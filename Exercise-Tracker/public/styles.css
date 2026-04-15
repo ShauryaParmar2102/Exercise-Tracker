@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: black;
+    min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    color: white;
+}
+
+.form, .controls {
+    margin: 20px auto;
+    text-align: center;
+    background: orange;
+    padding: 15px;
+    border-radius: 10px;
+    width: 90%;
+    
+}
+input {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 6px;
+    border: 5px solid black;
+    outline: none;
+    transition: 0.2s;
+}
+
+
+button {
+    padding: 10px 14px;
+    margin: 6px;
+    border: none;
+    border-radius: 6px;
+    background: blue;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+    font-weight: bold;
+}
+
+button:hover {
+    background: lightpink;
+    transform: translateY(-1px);
+}
+
+.exercise {
+    background: red;
+    padding: 18px;
+    margin: 15px auto;
+    width: 950px;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+    transition: 0.2s;
+}
+.exercise:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+}
+
+.exercise h3 {
+    margin: 0 0 10px;
+    color: lightblue
+}
+
+.exercise p {
+    margin: 0 0 10px;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.exercise small {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.error {
+    color: white;
+    padding: 18px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
