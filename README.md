@@ -16,13 +16,15 @@
 ## 🧠 Tech Stack
 
 **Frontend:**
-- HTML
-- CSS
-- JavaScript 
+
+🌐 HTML
+🎨 CSS
+⚙️ JavaScript
 
 **Backend:**
-- Node.js
-- Express.js
+
+🟢 Node.js
+🚀 Express.js
 
 ## ⚙️ Installation & Setup
 
