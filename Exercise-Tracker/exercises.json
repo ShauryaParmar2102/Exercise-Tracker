@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1776238394732",
+    "name": "Lateral Pulldown",
+    "type": "Strength",
+    "duration": "30mins",
+    "completed": false,
+    "date": "15/04/2026, 17:33:14"
+  },
+  {
+    "id": "1776239327565",
+    "name": "Weights",
+    "type": "Strength",
+    "duration": "30mins",
+    "completed": false,
+    "date": "15/04/2026, 17:48:47"
+  },
+  {
+    "id": "1776298977192",
+    "name": "Bicep Curls",
+    "type": "Strength",
+    "duration": "10mins",
+    "completed": false,
+    "date": "16/04/2026, 10:22:57"
+  }
+]

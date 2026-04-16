@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>⛹️‍♂️ Exercise Tracker</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+        <h1>⛹️‍♂️ Exercise Tracker </h1>
+
+        <div class="form">
+            <input id="name" placeholder="Exercise Name">
+            <input id="type" placeholder="Type (Cardio/Strength)">
+            <input id="duration" placeholder="Duration (minutes)">
+            <button onclick="addExercise()">Add Exercise</button>
+        </div>
+
+        <div class="controls">
+            <button onclick="loadExercises()">All Exercises</button>
+            <button onclick="filterExercises('Cardio')">Cardio</button>
+            <button onclick="filterExercises('Strength')">Strength</button>
+            <input id="search" placeholder="Search for an Exercise" oninput="searchExercises()">
+        </div>
+
+    <p id="errorMsg" class="error"></p>
+    <div id="ExerciseList"></div>
+
+    </body>
+
+</html>
