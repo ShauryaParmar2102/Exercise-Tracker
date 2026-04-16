@@ -8,9 +8,9 @@
 - 📋 View all exercises
 - 🔍 Search exercises by name or type
 - 🗂️ Filter exercises by type (Cardio, Strength)
+- ✏️ Edit exercise name
 - 🗑️ Delete exercises
 - 💾 Data stored using a JSON file (no database required)
-- ✏️ Edit exercise name
 ---
 
 ## 🧠 Tech Stack
