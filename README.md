@@ -18,12 +18,15 @@
 **Frontend:**
 
 🌐 HTML
+
 🎨 CSS
+
 ⚙️ JavaScript
 
 **Backend:**
 
 🟢 Node.js
+
 🚀 Express.js
 
 ## ⚙️ Installation & Setup
